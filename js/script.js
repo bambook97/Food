@@ -187,7 +187,6 @@ window.addEventListener('DOMContentLoaded', () => {
             this.parent.append(element);
         }
     }
-
         new MenuCard(
         "img/tabs/vegy.jpg",
         "vegy",
