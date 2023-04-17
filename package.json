@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bambook97/Food/issues"
   },
-  "homepage": "https://github.com/bambook97/Food#readme"
+  "homepage": "https://github.com/bambook97/Food#readme",
+  "devDependencies": {
+    "json-server": "^0.17.3"
+  }
 }
